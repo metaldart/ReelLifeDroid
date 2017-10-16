@@ -1,2 +1,4 @@
 ReelLifeDroid
 =============
+
+Updated readme HACKTOBER
